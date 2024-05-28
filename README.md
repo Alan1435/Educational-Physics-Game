@@ -17,10 +17,10 @@ Players avoid obstacles along the way, while trying to ensure the car has motion
 ## Free Form Building Ground
 We presents advaced and freeform building grounds for the cars so our players could experiment with what they learned and recieve immediate feedback of the reuslt. 
 
-<div style="display: flex; flex-direction: row; justify-content: space-around;">
-  <img src="images/BuildS.png" alt="BuildS" style="width:300px;"/>
-  <img src="images/Build.png" alt="Build" style="width:300px;"/>
-</div>
+
+![BuildS](images/BuildS.png)
+![Build](images/Build.png)
+
 
 
 ## Challange Levels
