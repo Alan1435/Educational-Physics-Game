@@ -3,7 +3,15 @@
 ![Logo](images/Logo.png)
 
 Tinker Trails is a 2d level-based puzzle game. Players are tasked with building cars to traverse different terrains, and each level requires players to utilize a variety of physics concepts in order to get their car to the end.
-As players progress through the game, and levels get more specific and harder to complete, and the players will go from an intuitive understanding of physics to a more fundamental understanding of physics concepts like forces, gravity, and motion.
+
+Players avoid obstacles along the way, while trying to ensure the car has motion to get to specific locations. This allow our young players to gain intuitive understanding of physics like the notion of Gravity, Friction, and Acceleration. 
+
+We presents advaced and freeform building grounds for the cars so our players could experiment with what they learned and recieve immediate feedback of the reuslt. 
+![Build](images/Build.png)
+
+Each level gets harder and new concepts are presented to our young players, while new puzzles are awating to be solved. 
+![GameOver](images/GameOver.png)
+
 
 
 Tinker Trials: An Exciting New Way to Teach Physics to Children
