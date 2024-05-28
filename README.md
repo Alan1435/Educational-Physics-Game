@@ -1,5 +1,7 @@
 # Educational-Physics-Game
 
+![Logo](images/Logo.png)
+
 Tinker Trails is a 2d level-based puzzle game. Players are tasked with building cars to traverse different terrains, and each level requires players to utilize a variety of physics concepts in order to get their car to the end.
 As players progress through the game, and levels get more specific and harder to complete, and the players will go from an intuitive understanding of physics to a more fundamental understanding of physics concepts like forces, gravity, and motion.
 
