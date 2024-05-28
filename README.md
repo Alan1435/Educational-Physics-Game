@@ -8,6 +8,10 @@ Tinker Trails is a 2d level-based puzzle game. Players are tasked with building 
 
 You can watch the demo video [here](images/gameTrailer.mp4).
 
+
+## <mark> Try our game live online</mark>
+
+
 <h1>Press Release</h1>
 
 Tinker Trials: An Exciting New Way to Teach Physics to Children
