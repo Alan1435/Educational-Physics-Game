@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af7181f404f1447c0a7a17b3070b952b, type: 3}
+  m_Name: grass 2
+  m_EditorClassIdentifier: 
+  m_Angles:
+  - m_Start: -45
+    m_End: 45
+    m_Order: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: 0309ddfc55790d14a9c70866e71c0956, type: 3}
+  - m_Start: 45
+    m_End: 135
+    m_Order: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: aa5386b8b5ff37b4baa619f1ac6ab86f, type: 3}
+  - m_Start: -135
+    m_End: -45
+    m_Order: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: 5adc37cf7180e56428e67379cf5ab1c9, type: 3}
+  - m_Start: -225
+    m_End: -135
+    m_Order: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: 0eb600f873f190244842390775410148, type: 3}
+  m_FillTexture: {fileID: 2800000, guid: 95a308db57190154a97e34e1a477edd6, type: 3}
+  m_CornerSprites:
+  - m_CornerType: 0
+    m_Sprites:
+    - {fileID: -1944746235, guid: 62c3e82458d953d47bfb7e8a28fc98a7, type: 3}
+  - m_CornerType: 1
+    m_Sprites:
+    - {fileID: -590002911, guid: 62c3e82458d953d47bfb7e8a28fc98a7, type: 3}
+  - m_CornerType: 2
+    m_Sprites:
+    - {fileID: -1815187286, guid: 62c3e82458d953d47bfb7e8a28fc98a7, type: 3}
+  - m_CornerType: 3
+    m_Sprites:
+    - {fileID: -706520556, guid: 62c3e82458d953d47bfb7e8a28fc98a7, type: 3}
+  - m_CornerType: 4
+    m_Sprites:
+    - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
+  - m_CornerType: 5
+    m_Sprites:
+    - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
+  - m_CornerType: 6
+    m_Sprites:
+    - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
+  - m_CornerType: 7
+    m_Sprites:
+    - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
+  m_FillOffset: 0.298
+  m_UseSpriteBorders: 1

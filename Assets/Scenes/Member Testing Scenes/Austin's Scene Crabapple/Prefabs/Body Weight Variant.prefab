@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &364416727297879874
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2347790534685965034, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 8cbbc6faaff24274fa6f071d6c1e199e, type: 3}
+    - target: {fileID: 2347790534685965034, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2347790534685965034, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3296303810717299955, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: correspondingButtonName
+      value: Button Body Weight 1x1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4801861192791162244, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_Mass
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4801861192791162244, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_BodyType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5241239214213199986, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5241239214213199986, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_ExcludeLayers.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 5241239214213199986, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5241239214213199986, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6361707780852352616, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.6109655
+      objectReference: {fileID: 0}
+    - target: {fileID: 6361707780852352616, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.099993706
+      objectReference: {fileID: 0}
+    - target: {fileID: 6361707780852352616, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6361707780852352616, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6361707780852352616, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6361707780852352616, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6361707780852352616, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6361707780852352616, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6361707780852352616, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6361707780852352616, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7715298217889299784, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_Name
+      value: Body Weight Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7715298217889299784, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: m_TagString
+      value: Body
+      objectReference: {fileID: 0}
+    - target: {fileID: 7883115919690060831, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}
+      propertyPath: myWidth
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c0786855a439c7642ba64decb2f7a3a0, type: 3}

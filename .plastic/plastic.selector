@@ -1,0 +1,3 @@
+rep "TinkerTrails@TeamGray@cloud"
+  path "/"
+    smartbranch "/main"
