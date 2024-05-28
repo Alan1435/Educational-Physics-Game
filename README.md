@@ -4,8 +4,14 @@
 
 Tinker Trails is a 2d level-based puzzle game. Players are tasked with building cars to traverse different terrains, and each level requires players to utilize a variety of physics concepts in order to get their car to the end.
 
+## Quick Preview of TinkerTrails
+
+You can watch the demo video [here](images/gameTrailers.mp4).
+
+## Game and Learning Objectives
 Players avoid obstacles along the way, while trying to ensure the car has motion to get to specific locations. This allow our young players to gain intuitive understanding of physics like the notion of Gravity, Friction, and Acceleration. 
 
+## Free Form Building Ground
 We presents advaced and freeform building grounds for the cars so our players could experiment with what they learned and recieve immediate feedback of the reuslt. 
 
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
@@ -13,6 +19,8 @@ We presents advaced and freeform building grounds for the cars so our players co
   <img src="images/Build.png" alt="Build" style="width:300px;"/>
 </div>
 
+
+## Challange Levels
 Each level gets harder and new concepts are presented to our young players, while new puzzles are awating to be solved. 
 ![GameOver](images/GameOver.png)
 
