@@ -27,6 +27,17 @@ We presents advaced and freeform building grounds for the cars so our players co
 Each level gets harder and new concepts are presented to our young players, while new puzzles are awating to be solved. 
 ![GameOver](images/GameOver.png)
 
+
+# Audience Reception
+
+Kids loved it!!!
+
+![A1](images/A1.png)
+![A2](images/A2.png)
+
+
+
+
 <h1>Press Release</h1>
 
 Tinker Trials: An Exciting New Way to Teach Physics to Children
