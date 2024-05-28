@@ -9,7 +9,9 @@ Tinker Trails is a 2d level-based puzzle game. Players are tasked with building 
 You can watch the demo video [here](images/gameTrailer.mp4).
 
 
-## <mark> Try our game live online</mark>
+## Try our game live online
+Here is a link to my game: <a href="https://alan1435.itch.io/tinkertrails" style="color: red;">Tinker Trails</a>
+
 
 
 <h1>Press Release</h1>
